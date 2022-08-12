@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"frc.robot.util.Shambots5907_SMF","l":"StatedSubsystem"},{"p":"frc.robot.util.Shambots5907_SMF","l":"SubsystemManager"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"frc.robot.util.Shambots5907_SMF","l":"FlagState"},{"p":"frc.robot.util.Shambots5907_SMF","l":"SimpleTransition"},{"p":"frc.robot.util.Shambots5907_SMF","l":"StatedSubsystem"},{"p":"frc.robot.util.Shambots5907_SMF","l":"SubsystemManager"},{"p":"frc.robot.util.Shambots5907_SMF","l":"Transition"}]
